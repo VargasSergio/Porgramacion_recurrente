@@ -133,11 +133,6 @@ hilo2.join()
 hilo3.join()
 ```
 
-## Cómo ejecutar los ejemplos
-
-1. Clona este repositorio en tu máquina local.
-2. Asegúrate de tener Python 3 instalado.
-3. Ejecuta cada archivo de ejemplo desde la línea de comandos o un entorno de desarrollo integrado (IDE).
 
 ```bash
 python ejemplo1.py
